@@ -1,0 +1,22 @@
+{
+    "name": "@xlr8/mongodb",
+    "version": "1.0.0",
+    "description": "Add MongoDB support in your XLR8 micro-service",
+    "author": {
+        "email": "joelgrenon@covistra.com",
+        "name": "Joel Grenon"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Covistra/xlr8-mongodb.git"
+    },
+    "main": "./src/main.js",
+    "dependencies": {
+        "lodash.get": "^4.4.2",
+        "mongodb": "^3.1.10"
+    },
+    "peerDependencies": {
+        "@xlr8/core": "1.x"
+    }
+}
