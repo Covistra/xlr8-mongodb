@@ -1,6 +1,6 @@
 {
     "name": "@xlr8/mongodb",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Add MongoDB support in your XLR8 micro-service",
     "author": {
         "email": "joelgrenon@covistra.com",
